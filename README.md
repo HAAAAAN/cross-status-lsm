@@ -1,7 +1,6 @@
 # A brief introduction of cross-status-lsm
 
 This project provides data of "Cross-status Communication and Project Outcomes in OSS Development".
-
 + The file Data contains two files RQ1 and RQ2.
  - In RQ1, the data of Section 6.1 are provided.
    * 6-1-1-LanguageStyleMatching(LSM)-values.csv shows 13 LSM scores (12 LIWC categories and the average) of 166 projects.
